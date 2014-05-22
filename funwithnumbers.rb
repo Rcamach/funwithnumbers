@@ -1,6 +1,3 @@
-
-
-
 puts "Give me a number" + '.'
 
 number1 = gets.chomp.to_i
